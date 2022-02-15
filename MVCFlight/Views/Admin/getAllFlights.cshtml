@@ -1,0 +1,80 @@
+@model IEnumerable<MVCFlight.Models.FlightDetails>
+
+@{
+    ViewData["Title"] = "getAllFlights";
+    Layout="_AdminLayout";
+}
+<style>
+    table{
+        background-color: lavender;
+    }
+</style>
+<h1>@ViewBag.Msg,</h1>
+<h1>All Flights are here..</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Source)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Departuretime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Arrivaltime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Totalcapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costperseat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Source)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departuretime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Arrivaltime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Totalcapacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costperseat)
+            </td>
+            <td>
+                <h6>@Html.ActionLink("Edit", "Edit", new {flightid=item.Flightid  },new {@style="color:yellow;"})</h6>
+              
+                <h6>@Html.ActionLink("Delete", "Delete", new {  flightid=item.Flightid },new {@style="color:red;"})</h6>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

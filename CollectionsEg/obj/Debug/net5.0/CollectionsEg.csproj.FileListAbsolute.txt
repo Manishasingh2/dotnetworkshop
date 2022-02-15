@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\CollectionsEg.exe
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\CollectionsEg.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\CollectionsEg.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\CollectionsEg.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\CollectionsEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\ref\CollectionsEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\bin\Debug\net5.0\CollectionsEg.pdb
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\ref\CollectionsEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.pdb
+C:\Users\m.s.lmv6\Desktop\demos\CollectionsEg\obj\Debug\net5.0\CollectionsEg.genruntimeconfig.cache

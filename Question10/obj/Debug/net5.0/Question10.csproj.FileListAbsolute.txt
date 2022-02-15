@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\Question10.exe
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\Question10.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\Question10.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\Question10.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\Question10.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\ref\Question10.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question10\bin\Debug\net5.0\Question10.pdb
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\ref\Question10.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.pdb
+C:\Users\m.s.lmv6\Desktop\demos\Question10\obj\Debug\net5.0\Question10.genruntimeconfig.cache

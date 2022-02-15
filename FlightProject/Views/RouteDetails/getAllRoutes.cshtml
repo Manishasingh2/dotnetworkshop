@@ -1,0 +1,44 @@
+@model IEnumerable<FlightProject.Models.RouteDetail>
+
+@{
+    ViewData["Title"] = "getAllRoutes";
+    Layout="_RouteLayout";
+}
+
+<h1>All The Routes Are Here...</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Routeid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Routedesc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Routeid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Routedesc)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Routeid }) |
+              
+                @Html.ActionLink("Delete", "Delete", new { id=item.Routeid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

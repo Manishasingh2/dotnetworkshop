@@ -1,0 +1,12 @@
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\bin\Debug\net5.0\MyLib.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\bin\Debug\net5.0\MyLib.dll
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\bin\Debug\net5.0\MyLib.pdb
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.dll
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+C:\Users\m.s.lmv6\Desktop\demos\MyLib\obj\Debug\net5.0\MyLib.pdb

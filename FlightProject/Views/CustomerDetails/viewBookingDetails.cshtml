@@ -1,0 +1,50 @@
+@model FlightProject.Models.BookingDetail
+
+@{
+    ViewData["Title"] = "viewBookingDetails";
+    Layout="_CustomerLayout";
+}
+
+<h1>Hii @ViewBag.message,</h1>
+<h3>Your Booking Details Are Here..</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookingid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Routeid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Doj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numberofpassengers)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Totalvalue)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td>@Model.Bookingid</td>
+<td>@Model.Flightid</td>
+<td>@Model.Routeid</td>
+<td>@Model.Doj</td>
+<td>@Model.Numberofpassengers</td>
+<td>@Model.Totalvalue</td>
+        </tr>
+<div><a asp-action="Logout" >Logout</a></div>
+
+        
+        </tr>
+
+    </tbody>
+</table>

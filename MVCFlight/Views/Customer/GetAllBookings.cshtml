@@ -1,0 +1,36 @@
+@model MVCFlight.Models.BookingDetail
+
+@{
+    ViewData["Title"] = "GetAllBookings";
+    Layout="_CustomerLayout";
+}
+<head>
+<style>
+    h1{
+        align-content: center;
+        color: purple;
+    }
+    .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+background-color:lightpink;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+<h3>Your Booking Details</h3>
+<p>@Html.DisplayNameFor(model => model.Bookingid):@Model.Bookingid</p>                 
+<p>@Html.DisplayNameFor(model => model.Flightid):@Model.Flightid</p>        
+<p>@Html.DisplayNameFor(model => model.Routeid):@Model.Routeid</p>        
+<p>@Html.DisplayNameFor(model => model.Doj):@Model.Doj </p>
+<p>@Html.DisplayNameFor(model => model.Numberofpassengers):@Model.Numberofpassengers</p>           
+<p>@Html.DisplayNameFor(model => model.Totalvalue):@Model.Totalvalue</p>         
+<p>@Html.DisplayNameFor(model => model.Customerid):@Model.Customerid </p>
+</div>
+</body>

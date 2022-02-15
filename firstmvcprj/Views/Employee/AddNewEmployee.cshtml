@@ -1,0 +1,23 @@
+@model firstmvcprj.Models.Emp;
+<h1> Add New Employee</h1>
+<form asp-action="AddNewEmployee">
+<div>
+    <label asp-for="Empid" class="control-label"> Emp ID:</label>
+    <input asp-for="Empid" class="form-control"/>
+
+</div>
+<div>
+    <label asp-for="Ename" class="control-label"> Emp Name:</label>
+    <input asp-for="Ename" class="form-control"/>
+
+</div>
+<div>
+    <label asp-for="Esalary" class="control-label"> Emp Salary:</label>
+    <input asp-for="Esalary" class="form-control"/>
+
+</div>
+<div>
+    
+<input type="submit" value="Add Employee"/>
+</div>
+</form>

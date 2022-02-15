@@ -1,0 +1,65 @@
+@{
+    Layout="_CustomerLayout";
+    
+
+}
+
+<style>
+                    body{
+                       color: purple;
+                       text-align: center;
+                    }
+                    form{
+                        display: inline-block;
+                    }
+                    div{
+                        margin-bottom: 5px;
+                        column-gap: 40px;
+                    }
+                     input[type=submit] {
+  width:190px;height: =200px;
+}
+</style>
+<body>
+
+<h1>CHECK AVAILABLE FLIGHTS</h1>
+
+<div>
+<form asp-action="CheckAvailability">
+<div>
+<img src="~/images/logo.jpg" height="200" width="220">
+</div>
+
+<div>
+    <asp:label id="source" width="220" height="50">Source of Flight</asp:label>
+</div>
+<div>
+    <input id="source" width="220" height="50" name="source"/>
+</div>
+<div>
+    <asp:label id="dest" width="220" height="50">Destination of Flight</asp:label>
+</div>
+<div>
+    <input id="dest"  width="220" height="50" name="dest"/>
+    
+</div>
+<div> 
+<input type="submit" style="background:purple;" value="CHECK NOW"/>
+</div>
+<div>
+@{
+    if(ViewBag.z!=null)
+    { <style>
+            h4{
+                color: red;
+            }
+        </style>
+        <h4>@ViewBag.z</h4>
+    }
+
+}
+
+</div>
+</form>
+</div>
+</body>

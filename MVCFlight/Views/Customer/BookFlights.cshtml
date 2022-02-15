@@ -1,0 +1,59 @@
+@model MVCFlight.Models.BookingDetail
+
+@{
+    ViewData["Title"] = "BookFlights";
+    Layout="_CustomerLayout";
+}
+
+<h1>Book Your Flights</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BookFlights">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+              
+                <input asp-for="Bookingid" type="hidden" class="form-control" />
+                <span asp-validation-for="Bookingid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+              
+                <input asp-for="Flightid" type="hidden" class="form-control" />
+                <span asp-validation-for="Flightid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+               
+                <input asp-for="Routeid" type="hidden" class="form-control" />
+                <span asp-validation-for="Routeid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Doj" class="control-label"></label>
+                <input asp-for="Doj" class="form-control" />
+                <span asp-validation-for="Doj" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Numberofpassengers" class="control-label"></label>
+                <input asp-for="Numberofpassengers" class="form-control" />
+                <span asp-validation-for="Numberofpassengers" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+              
+                <input asp-for="Totalvalue" type="hidden" class="form-control" />
+                <span asp-validation-for="Totalvalue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+              
+                <input asp-for="Customerid" type="hidden" class="form-control" />
+                <span asp-validation-for="Customerid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" style="background:green;" value="Book FLight" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

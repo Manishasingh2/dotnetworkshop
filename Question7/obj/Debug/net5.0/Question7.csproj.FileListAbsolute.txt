@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\Question7.exe
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\Question7.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\Question7.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\Question7.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\Question7.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\ref\Question7.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question7\bin\Debug\net5.0\Question7.pdb
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\ref\Question7.dll
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.pdb
+C:\Users\m.s.lmv6\Desktop\demos\Question7\obj\Debug\net5.0\Question7.genruntimeconfig.cache

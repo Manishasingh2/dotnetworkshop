@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\LINQEg.exe
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\LINQEg.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\LINQEg.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\LINQEg.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\LINQEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\ref\LINQEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\bin\Debug\net5.0\LINQEg.pdb
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\ref\LINQEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.pdb
+C:\Users\m.s.lmv6\Desktop\demos\LINQEg\obj\Debug\net5.0\LINQEg.genruntimeconfig.cache

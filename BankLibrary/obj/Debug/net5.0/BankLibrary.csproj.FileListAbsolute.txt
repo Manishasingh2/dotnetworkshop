@@ -1,0 +1,15 @@
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\bin\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\bin\Debug\net5.0\BankLibrary.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\bin\Debug\net5.0\BankLibrary.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\BankLibrary\obj\Debug\net5.0\BankLibrary.genruntimeconfig.cache

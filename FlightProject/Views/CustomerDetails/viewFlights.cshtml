@@ -1,0 +1,84 @@
+@model IEnumerable<FlightProject.Models.FlightDetail>
+
+@{
+    ViewData["Title"] = "viewFlights";
+    Layout="_CustomerLayout";
+}
+<h1> @ViewBag.Msg</h1>
+<h1>Details of Flights</h1>
+<div><a asp-action="Logout" >Logout</a></div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Source)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Departuretime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Arrivaltime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Totalcapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costperseat)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Imagepath)
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Source)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departuretime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Arrivaltime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Totalcapacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costperseat)
+            </td>
+             <td>
+               
+                  <img src="@Url.Content(item.Imagepath)" height="100" width="100">
+            </td>
+             <td>
+               
+               
+                <td><a asp-action="bookFlight" asp-route-id=@item.Flightid asp-route-foo=@ViewBag.customerID1>Click To Book The Flight</a></td>
+                 
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

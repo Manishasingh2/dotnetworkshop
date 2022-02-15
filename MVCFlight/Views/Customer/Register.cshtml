@@ -1,0 +1,65 @@
+@model MVCFlight.Models.CustomerDetail
+
+@{
+    ViewData["Title"] = "Register";
+    Layout="_CustLayout";
+}
+<style>
+    
+     h1{
+         color: purple;
+         align-text: center;
+         
+     }
+       body{
+         align-content: center;     }
+     </style>
+<h1>CUSTOMER REGISTRATION</h1>
+
+
+<body>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+               
+                <input asp-for="Customerid" type="hidden" class="form-control" />
+                <span asp-validation-for="Customerid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customername" class="control-label"></label>
+                <input asp-for="Customername" class="form-control" />
+                <span asp-validation-for="Customername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" type="password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" style="background:purple;" value="Register Now" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    @{
+    if(ViewBag.custId!=null)
+    {
+        <style>
+            h4{
+                color: green;
+            }
+        </style>
+        <h4>Your Uinque ID is @ViewBag.custId . Pleae Save For Future Reference!</h4>
+    }
+
+}
+</div>
+</body>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

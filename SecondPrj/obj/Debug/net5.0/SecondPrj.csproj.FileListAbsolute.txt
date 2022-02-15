@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\SecondPrj.exe
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\SecondPrj.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\SecondPrj.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\SecondPrj.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\SecondPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\ref\SecondPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\bin\Debug\net5.0\SecondPrj.pdb
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\ref\SecondPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.pdb
+C:\Users\m.s.lmv6\Desktop\demos\SecondPrj\obj\Debug\net5.0\SecondPrj.genruntimeconfig.cache

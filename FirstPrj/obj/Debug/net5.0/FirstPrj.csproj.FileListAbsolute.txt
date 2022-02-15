@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\FirstPrj.exe
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\FirstPrj.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\FirstPrj.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\FirstPrj.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\FirstPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\ref\FirstPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\bin\Debug\net5.0\FirstPrj.pdb
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\ref\FirstPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.pdb
+C:\Users\m.s.lmv6\Desktop\demos\FirstPrj\obj\Debug\net5.0\FirstPrj.genruntimeconfig.cache

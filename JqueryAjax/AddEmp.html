@@ -1,0 +1,76 @@
+ <!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<h1> Add Employee </h1>
+</html>
+
+
+ <div class="form-group">
+    <label for="eid">Eid:</label>
+    <input type="number" class="form-control" id="eid" />
+</div>
+<div class="form-group">
+    <label for="ename">Name:</label>
+    <input type="text" class="form-control" id="ename" />
+</div>
+<div class="form-group">
+    <label for="salary">Salary:</label>
+    <input type="number" class="form-control" id="salary" />
+</div>
+<div class="form-group">
+    <label for="doj">Date of Joining:</label>
+    <input type="date" class="form-control" id="doj" />
+</div>
+
+<div class="form-group">
+    <label for="city">City:</label>
+    <input type="text" class="form-control" id="city" />
+</div>
+<div class="text-center panel-body">
+    <button type="submit" class="btn btn-sm btn-primary" id="AddButton">Add</button>
+</div>
+ 
+<div style="display:none" id="resultDiv">
+    <h2>Employee</h2>
+    <table class="table">
+        <thead><tr><th>ID</th><th>Name</th><th>Salary</th><th>Doj</th><th>City</th></tr></thead>
+        <tbody></tbody>
+    </table>
+</div> 
+<script>
+
+$("#AddButton").click(function (e) {
+    $.ajax({
+        url: "https://localhost:5001/api/Employee/AddEmp",
+        headers:{
+        'Content-Type':'application/json;charset=UTF-8',
+        'Access-Control-Allow-Origin':'*',
+        'Access-Control-Allow-Method':'*'},
+       type: "post",
+        contentType: "application/json",
+        data: JSON.stringify({
+            Eid: $("#eid").val(),
+            Ename: $("#ename").val(),
+            Salary: $("#salary").val(),
+            Doj: $("#doj").val(),
+            City:$("#city").val()
+        }),
+        success: function (result, status, xhr) {
+            var str = "<tr><td>" + result["eid"] + "</td><td>" + result["ename"] + "</td><td>" + result["salary"] + "</td><td>" + result["doj"]+"</td><td>"+result["city"]+"</td>";
+            $("table tbody").append(str);
+            $("#resultDiv").show();
+        },
+        error: function (xhr, status, error) {
+            console.log(xhr)
+        }
+    });
+});
+
+</script> 
+
+<a href="getemp.html" > List All Employees </a>

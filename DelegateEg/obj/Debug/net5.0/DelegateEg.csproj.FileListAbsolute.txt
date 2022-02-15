@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\DelegateEg.exe
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\DelegateEg.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\DelegateEg.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\DelegateEg.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\DelegateEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\ref\DelegateEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\bin\Debug\net5.0\DelegateEg.pdb
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\ref\DelegateEg.dll
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.pdb
+C:\Users\m.s.lmv6\Desktop\demos\DelegateEg\obj\Debug\net5.0\DelegateEg.genruntimeconfig.cache

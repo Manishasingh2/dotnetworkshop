@@ -1,0 +1,16 @@
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ThirdPrj.exe
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ThirdPrj.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ThirdPrj.runtimeconfig.json
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ThirdPrj.runtimeconfig.dev.json
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ThirdPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ref\ThirdPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\bin\Debug\net5.0\ThirdPrj.pdb
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ref\ThirdPrj.dll
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.pdb
+C:\Users\m.s.lmv6\Desktop\demos\ThirdPrj\obj\Debug\net5.0\ThirdPrj.genruntimeconfig.cache

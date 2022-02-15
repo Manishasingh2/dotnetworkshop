@@ -1,0 +1,83 @@
+@model IEnumerable<FlightProject.Models.FlightDetail>
+
+@{
+    ViewData["Title"] = "getAllFlights";
+    Layout="_AdminLayout";
+}
+
+<h1>All Flights Are Here..</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flightname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Source)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Departuretime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Arrivaltime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Totalcapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costperseat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagepath)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flightname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Source)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departuretime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Arrivaltime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Totalcapacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costperseat)
+            </td>
+            <td>
+                <img src="@Url.Content(item.Imagepath)" height="100" width="100">
+               
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  flightid=item.Flightid })
+                @Html.ActionLink("Delete", "Delete", new { flightid=item.Flightid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

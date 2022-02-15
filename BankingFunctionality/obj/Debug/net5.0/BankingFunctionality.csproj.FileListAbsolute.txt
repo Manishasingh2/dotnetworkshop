@@ -1,0 +1,15 @@
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\bin\Debug\net5.0\BankingFunctionality.deps.json
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\bin\Debug\net5.0\BankingFunctionality.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\bin\Debug\net5.0\ref\BankingFunctionality.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\bin\Debug\net5.0\BankingFunctionality.pdb
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.csproj.AssemblyReference.cache
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.AssemblyInfoInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.AssemblyInfo.cs
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.csproj.CopyComplete
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\ref\BankingFunctionality.dll
+C:\Users\m.s.lmv6\Desktop\demos\BankingFunctionality\obj\Debug\net5.0\BankingFunctionality.pdb
